@@ -22,15 +22,15 @@ tag file export for writing physical NFC stickers.
 - **Manual refresh** — Tap any QR to regenerate it on demand.
 - **Haptic feedback** — A single vibration buzz confirms the QR is
   shown.
+- **NFC tag file export** — Generate a `.nfc` file for each wallet
+  that the stock Flipper NFC app can write to a blank NTAG213 sticker.
+  When someone taps the sticker with their phone, their Lightning
+  wallet opens with your address pre-filled.
 - **Splash screen** — Brand intro on app launch with the Unbank
   silhouette and app name.
 - **Download Unbank QR** — Built-in QR pointing to
   `unbank.com/open-app` so anyone can grab the Unbank mobile app.
 - **About screen** — Brief description of Unbank with scrolling text.
-- **NFC tag file export** — Generate a `.nfc` file for each wallet
-  that the stock Flipper NFC app can write to a blank NTAG213 sticker.
-  When someone taps the sticker with their phone, their Lightning
-  wallet opens with your address pre-filled.
 
 ---
 
