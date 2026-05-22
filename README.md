@@ -50,7 +50,7 @@ Requirements: Python 3 + a USB cable.
 pip3 install --upgrade ufbt
 
 # Clone this repo
-git clone https://github.com/mshandler39/Unbank-BTCLN-QR-Generator.git
+git clone https://github.com/shanzy39/Unbank-BTCLN-QR-Generator.git
 cd Unbank-BTCLN-QR-Generator
 
 # Plug in your Flipper, then:
