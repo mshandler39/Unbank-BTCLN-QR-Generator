@@ -34,6 +34,22 @@ tag file export for writing physical NFC stickers.
 
 ---
 
+## Screenshots
+
+| Splash Screen | Main Menu | Wallet Selection |
+|:---:|:---:|:---:|
+| ![Splash](screenshots/01-splash-screen.png) | ![Main Menu](screenshots/02-main-menu.png) | ![Wallets](screenshots/03-wallet-selection.png) |
+
+| Speed Wallet | QR Code | Write NFC Tag |
+|:---:|:---:|:---:|
+| ![Speed](screenshots/04-speed-wallet.png) | ![QR](screenshots/05-qr-code.png) | ![NFC](screenshots/06-write-nfc-tag.png) |
+
+| Download Unbank | About (1/2) | About (2/2) |
+|:---:|:---:|:---:|
+| ![Download](screenshots/07-download-unbank.png) | ![About 1](screenshots/08-about-screen-1.png) | ![About 2](screenshots/09-about-screen-2.png) |
+
+---
+
 ## Hardware Requirements
 
 - **Flipper Zero** (stock hardware — no add-ons required)
